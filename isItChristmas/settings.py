@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'is_it_christmas',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
